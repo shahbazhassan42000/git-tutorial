@@ -1,0 +1,21 @@
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'https://fmworldpk-itelservices.radioca.st/stream',
+'lang':'en',
+'codec':'mp3',
+'volume':100,
+'autoplay':true,
+'jsevents':true,
+'buffering':0,
+'title':'Radio FM World Pakistan',
+'welcome':'Station On Air',
+'wmode':'transparent',
+'skin':'mcclean',
+'width':180,
+'height':60
+});
+</script>
